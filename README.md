@@ -3,6 +3,8 @@ What happen when you start a million threads ?:)
 
 ## Status
 
+[![Build Status](https://travis-ci.org/wojciech-zurek/kotlin-thread-coroutine-tester.svg?branch=master)](https://travis-ci.org/wojciech-zurek/kotlin-thread-coroutine-tester)
+
 ## Download
 
 ```bash
