@@ -4,6 +4,7 @@ What happen when you start a million threads ?:)
 ## Status
 
 [![Build Status](https://travis-ci.org/wojciech-zurek/kotlin-thread-coroutine-tester.svg?branch=master)](https://travis-ci.org/wojciech-zurek/kotlin-thread-coroutine-tester)
+[![codebeat badge](https://codebeat.co/badges/c685784d-373a-42a5-a0ee-f142c062a9c2)](https://codebeat.co/projects/github-com-wojciech-zurek-kotlin-thread-coroutine-tester-master)
 
 ## Download
 
